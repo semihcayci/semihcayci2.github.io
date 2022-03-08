@@ -2,6 +2,7 @@
 layout: additional
 title: Publications
 ---
+## Bio
 
 **Postdoctoral Fellow** in Coordinated Science Laboratory, University of Illinois at Urbana-Champaign, 2020-present<br>
     
