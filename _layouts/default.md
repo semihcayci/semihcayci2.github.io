@@ -18,7 +18,6 @@
         <p>{{ site.description | default: }}</p>
           
         <img src="/semihcayci_orig.jpg"/>
-
         <a href="http://semihcayci.github.io/index.html">Home</a>
         <br>
         <a href="http://semihcayci.github.io/publications.html">Publications</a>
