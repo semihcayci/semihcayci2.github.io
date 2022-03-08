@@ -1,6 +1,6 @@
-I am an NSF TRIPODS Postdoctoral Fellow at the University of Illinois at Urbana-Champaign. My research interests broadly lie in machine learning, optimization and statistics.
+<p align="justify">I am an NSF TRIPODS Postdoctoral Fellow at the University of Illinois at Urbana-Champaign. My research interests broadly lie in machine learning, optimization and statistics.</p>
 
-The ultimate goal of my research is to develop efficient, robust and scalable data-driven decision-making methods that achieve provably good performance for large-scale systems. To that end, I take a principled approach to the design and analysis of reinforcement learning algorithms and neural networks. The application areas of my research include autonomous systems, stochastic networks and algorithmic fairness.
+<p align="justify">The ultimate goal of my research is to develop efficient, robust and scalable data-driven decision-making methods that achieve provably good performance for large-scale systems. To that end, I take a principled approach to the design and analysis of reinforcement learning algorithms and neural networks. The application areas of my research include autonomous systems, stochastic networks and algorithmic fairness.</p>
 
 My curriculum vitae can be found [here](https://drive.google.com/file/d/1-H0KwS6_AMoKGYeVi1ZqOOS0mv3VuWt6/view?usp=sharing).
 
