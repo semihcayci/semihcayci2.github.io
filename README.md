@@ -9,8 +9,11 @@ My curriculum vitae can be found [here](https://drive.google.com/file/d/1-H0KwS6
 ### Selected Recent Papers
 
 - Learning to Control Partially Observed Systems with Finite Memory
+
 Semih Cayci, Niao He, R. Srikant
+
 arXiv:2202.09753
+
 [paper](https://arxiv.org/abs/2202.09753)
 
 ```markdown
