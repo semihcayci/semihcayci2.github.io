@@ -18,7 +18,7 @@ AAAI 2022<br>
 
 - **Sample Complexity and Overparameterization Bounds for Temporal Difference Learning with Neural Network Approximation**<br>
 Semih Cayci, Siddhartha Satpathi, Niao He, R. Srikant<br>
-Short version appeared at ICML Workshop on Overparameterization, 2021<br>
+ICML Workshop on Overparameterization, 2021<br>
 [paper](https://arxiv.org/pdf/2103.01391.pdf)
 
 - **Group-Fair Online Allocation in Continuous Time**<br>
