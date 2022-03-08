@@ -1,5 +1,3 @@
-## Semih Çaycı
-
 I am an NSF TRIPODS Postdoctoral Fellow at the University of Illinois at Urbana-Champaign. My research interests broadly lie in machine learning, optimization and statistics.
 
 The ultimate goal of my research is to develop efficient, robust and scalable data-driven decision-making methods that achieve provably good performance for large-scale systems. To that end, I take a principled approach to the design and analysis of reinforcement learning algorithms and neural networks. The application areas of my research include autonomous systems, stochastic networks and algorithmic fairness.
