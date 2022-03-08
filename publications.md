@@ -11,8 +11,7 @@ Under submission<br><br>
 Semih Cayci, Niao He, R. Srikant<br>
 arXiv:2202.09753<br>
 Under review<br>
-[paper](https://arxiv.org/abs/2202.09753)
-<br><br>
+[paper](https://arxiv.org/abs/2202.09753)<br><br>
 
 # Sample Complexity and Overparameterization Bounds for Temporal Difference Learning with Neural Network Approximation<br>
 Semih Cayci, Siddhartha Satpathi, Niao He, R. Srikant<br>
