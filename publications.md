@@ -51,6 +51,7 @@ Proc. of the ACM on Measurement and Analysis of Computing Systems vol. 3-2, p. 4
 [paper](https://dl.acm.org/doi/pdf/10.1145/3341617.3326158)<br><br><br>
 
 #### Learning to Control Renewal Processes with Bandit Feedback
+Semih Cayci, Atilla Eryilmaz, R. Srikant<br>
 ACM SIGMETRICS 2019<br>
 [ext abstract](https://dl.acm.org/doi/abs/10.1145/3309697.3331515)<br><br><br>
 
