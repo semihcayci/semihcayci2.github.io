@@ -1,12 +1,17 @@
 ## Semih Çaycı
 
-You can use the [editor on GitHub](https://github.com/semihcayci/semihcayci.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am an NSF TRIPODS Postdoctoral Fellow at the University of Illinois at Urbana-Champaign. My research interests broadly lie in machine learning, optimization and statistics.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The ultimate goal of my research is to develop efficient, robust and scalable data-driven decision-making methods that achieve provably good performance for large-scale systems. To that end, I take a principled approach to the design and analysis of reinforcement learning algorithms and neural networks. The application areas of my research include autonomous systems, stochastic networks and algorithmic fairness.
 
-### Markdown
+My curriculum vitae can be found [here](https://drive.google.com/file/d/1-H0KwS6_AMoKGYeVi1ZqOOS0mv3VuWt6/view?usp=sharing).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Selected Recent Papers
+
+- Learning to Control Partially Observed Systems with Finite Memory
+Semih Cayci, Niao He, R. Srikant
+arXiv:2202.09753
+[paper](https://arxiv.org/abs/2202.09753)
 
 ```markdown
 Syntax highlighted code block
