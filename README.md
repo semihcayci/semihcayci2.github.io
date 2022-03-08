@@ -8,38 +8,27 @@ My curriculum vitae can be found [here](https://drive.google.com/file/d/1-H0KwS6
 
 ### Selected Recent Papers
 
-- Learning to Control Partially Observed Systems with Finite Memory
-
-Semih Cayci, Niao He, R. Srikant
-
-arXiv:2202.09753
-
+- Learning to Control Partially Observed Systems with Finite Memory<br>
+Semih Cayci, Niao He, R. Srikant<br>
+arXiv:2202.09753<br>
 [paper](https://arxiv.org/abs/2202.09753)
 
-```markdown
-Syntax highlighted code block
+- A Lyapunov-Based Methodology for Constrained Optimization with Bandit Feedback<br>
+Semih Cayci, Yilin Zheng and Atilla Eryilmaz<br>
+AAAI 2022<br>
+[paper](https://arxiv.org/pdf/2106.05165.pdf)
 
-# Header 1
-## Header 2
-### Header 3
+- Sample Complexity and Overparameterization Bounds for Temporal Difference Learning with Neural Network Approximation<br>
+Semih Cayci, Siddhartha Satpathi, Niao He, R. Srikant<br>
+Short version appeared at ICML Workshop on Overparameterization, 2021<br>
+[paper](https://arxiv.org/pdf/2103.01391.pdf)
 
-- Bulleted
-- List
+- Group-Fair Online Allocation in Continuous Time<br>
+Semih Cayci, Swati Gupta, Atilla Eryilmaz<br>
+NeurIPS 2020<br>
+[paper](http://semihcayci.github.io/NeurIPS_2020.pdf)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/semihcayci/semihcayci.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Learning to Control Renewal Processes with Bandit Feedback<br>
+Semih Cayci, Atilla Eryilmaz, R. Srikant<br>
+ACM SIGMETRICS 2019<br>
+[paper](https://semihcayci.github.io/SIGMETRICS19_p43.pdf)
