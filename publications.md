@@ -3,11 +3,11 @@ layout: additional
 title: Publications
 ---
 
-#### Neural Natural Actor-Critic with Entropy Regularization<br>
+- #### Neural Natural Actor-Critic with Entropy Regularization<br>
 Semih Cayci, Niao He, R. Srikant<br>
 Under submission<br><br>
 
-#### Learning to Control Partially Observed Systems with Finite Memory<br>
+- #### Learning to Control Partially Observed Systems with Finite Memory<br>
 Semih Cayci, Niao He, R. Srikant<br>
 arXiv:2202.09753<br>
 Under review<br>
