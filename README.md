@@ -24,9 +24,9 @@ ICML Workshop on Overparameterization, 2021<br>
 - **Group-Fair Online Allocation in Continuous Time**<br>
 Semih Cayci, Swati Gupta, Atilla Eryilmaz<br>
 NeurIPS 2020<br>
-[paper](http://semihcayci.github.io/NeurIPS_2020.pdf)
+[paper](https://proceedings.neurips.cc/paper/2020/file/9ec0cfdc84044494e10582436e013e64-Paper.pdf)
 
 - **Learning to Control Renewal Processes with Bandit Feedback**<br>
 Semih Cayci, Atilla Eryilmaz, R. Srikant<br>
 ACM SIGMETRICS 2019<br>
-[paper](https://semihcayci.github.io/SIGMETRICS19_p43.pdf)
+[paper](https://dl.acm.org/doi/pdf/10.1145/3341617.3326158)
