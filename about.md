@@ -5,6 +5,7 @@ title: Publications
 ## Bio
 
 **Postdoctoral Fellow** in Coordinated Science Laboratory, University of Illinois at Urbana-Champaign, 2020-present<br>
+    *Hosts*: Prof. R. Srikant and Prof. Niao He<br><br>
     
 **PhD in Electrical and Computer Engineering**, The Ohio State University, 2020<br>
     *Dissertation*: Online Learning for Optimal Control of Communication and Computing Systems<br>
