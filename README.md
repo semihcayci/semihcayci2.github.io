@@ -9,8 +9,9 @@ My curriculum vitae can be found [here](https://drive.google.com/file/d/1-H0KwS6
 - **Learning to Control Partially Observed Systems with Finite Memory**<br>
 Semih Cayci, Niao He, R. Srikant<br>
 arXiv:2202.09753<br>
-[paper](https://arxiv.org/abs/2202.09753)<br>
-Under review
+Under review<br>
+[paper](https://arxiv.org/abs/2202.09753)
+
 
 - **A Lyapunov-Based Methodology for Constrained Optimization with Bandit Feedback**<br>
 Semih Cayci, Yilin Zheng and Atilla Eryilmaz<br>
@@ -20,8 +21,9 @@ AAAI 2022<br>
 - **Sample Complexity and Overparameterization Bounds for Temporal Difference Learning with Neural Network Approximation**<br>
 Semih Cayci, Siddhartha Satpathi, Niao He, R. Srikant<br>
 ICML Workshop on Overparameterization, 2021 (Short version)<br>
-[paper](https://arxiv.org/pdf/2103.01391.pdf)<br>
-Under review
+Under review<br>
+[paper](https://arxiv.org/pdf/2103.01391.pdf)
+
 
 - **Group-Fair Online Allocation in Continuous Time**<br>
 Semih Cayci, Swati Gupta, Atilla Eryilmaz<br>
