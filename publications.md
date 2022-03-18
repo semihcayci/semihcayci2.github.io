@@ -5,7 +5,7 @@ title: Publications
 
 ## Publications <br><br>
 
-**Neural Natural Actor-Critic with Entropy Regularization**<br>
+**Finite-Time Analysis of Natural Actor-Critic with Neural Network Approximation**<br>
 Semih Cayci, Niao He, R. Srikant<br>
 Under submission<br><br> 
 
