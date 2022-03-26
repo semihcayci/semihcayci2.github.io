@@ -39,7 +39,7 @@ Advances in Neural Information Processing Systems 33, NeurIPS 2020<br>
 **Budget-Constrained Bandits over General Cost and Reward Distributions**<br>
 Semih Cayci, Atilla Eryilmaz, R. Srikant<br>
 Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics (AISTATS), PMLR 108:4388-4398, 2020.<br>
-[paper](http://proceedings.mlr.press/v108/cayci20a/cayci20a.pdf) [supp](http://proceedings.mlr.press/v108/cayci20a/cayci20a-supp.pdf)<br><br> 
+[paper](https://arxiv.org/pdf/2003.00365)<br><br> 
 
 **Continuous-Time Multi-Armed Bandits with Controlled Restarts**<br>
 Semih Cayci, Atilla Eryilmaz, R. Srikant<br>
