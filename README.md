@@ -24,7 +24,7 @@ ICML Workshop on Reinforcement Learning Theory (Short version)<br>
 - **Budget-Constrained Bandits over General Cost and Reward Distributions**<br>
 Semih Cayci, Atilla Eryilmaz, R. Srikant<br>
 AISTATS 2020<br>
-[paper](http://proceedings.mlr.press/v108/cayci20a/cayci20a-supp.pdf)
+[paper](https://arxiv.org/pdf/2003.00365)
 
 - **Group-Fair Online Allocation in Continuous Time**<br>
 Semih Cayci, Swati Gupta, Atilla Eryilmaz<br>
