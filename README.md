@@ -21,15 +21,15 @@ arXiv:2106.04096<br>
 ICML Workshop on Reinforcement Learning Theory (Short version)<br>
 [paper](https://arxiv.org/pdf/2106.04096.pdf)
 
-- **Budget-Constrained Bandits over General Cost and Reward Distributions**<br>
-Semih Cayci, Atilla Eryilmaz, R. Srikant<br>
-AISTATS 2020<br>
-[paper](https://arxiv.org/pdf/2003.00365)
-
 - **Group-Fair Online Allocation in Continuous Time**<br>
 Semih Cayci, Swati Gupta, Atilla Eryilmaz<br>
 NeurIPS 2020<br>
 [paper](https://proceedings.neurips.cc/paper/2020/file/9ec0cfdc84044494e10582436e013e64-Paper.pdf)
+
+- **Budget-Constrained Bandits over General Cost and Reward Distributions**<br>
+Semih Cayci, Atilla Eryilmaz, R. Srikant<br>
+AISTATS 2020<br>
+[paper](https://arxiv.org/pdf/2003.00365)
 
 - **Learning to Control Renewal Processes with Bandit Feedback**<br>
 Semih Cayci, Atilla Eryilmaz, R. Srikant<br>
