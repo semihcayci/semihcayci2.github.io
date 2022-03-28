@@ -23,6 +23,7 @@ ICML Workshop on Overparameterization: Pitfalls & Opportunities 2021<br>
 **Convergence of Entropy-Regularized Natural Policy Gradient Methods with Linear Function Approximation**<br>
 Semih Cayci, Niao He, R. Srikant<br>
 arXiv:2106.04096<br>
+ICML Workshop on Reinforcement Learning Theory 2021 (Short version)<br>
 Under review<br>
 [paper](https://arxiv.org/abs/2106.04096)<br><br>
 
