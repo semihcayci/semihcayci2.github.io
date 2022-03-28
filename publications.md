@@ -15,6 +15,11 @@ arXiv:2202.09753<br>
 Under review<br>
 [paper](https://arxiv.org/abs/2202.09753)<br><br> 
 
+**A Lyapunov-Based Methodology for Constrained Optimization with Bandit Feedback**<br>
+Semih Cayci, Yilin Zheng and Atilla Eryilmaz<br>
+Accepted to the Thirty-Sixth AAAI Conference on Artificial Intelligence, AAAI 2022<br>
+[paper](https://arxiv.org/pdf/2106.05165.pdf)<br><br> 
+
 **Sample Complexity and Overparameterization Bounds for Temporal Difference Learning with Neural Network Approximation**<br>
 Semih Cayci, Siddhartha Satpathi, Niao He, R. Srikant<br>
 ICML Workshop on Overparameterization: Pitfalls & Opportunities 2021<br>
@@ -26,11 +31,6 @@ arXiv:2106.04096<br>
 ICML Workshop on Reinforcement Learning Theory 2021 (Short version)<br>
 Under review<br>
 [paper](https://arxiv.org/abs/2106.04096)<br><br>
-
-**A Lyapunov-Based Methodology for Constrained Optimization with Bandit Feedback**<br>
-Semih Cayci, Yilin Zheng and Atilla Eryilmaz<br>
-Accepted to the Thirty-Sixth AAAI Conference on Artificial Intelligence, AAAI 2022<br>
-[paper](https://arxiv.org/pdf/2106.05165.pdf)<br><br> 
 
 **Group-Fair Online Allocation in Continuous Time**<br>
 Semih Cayci, Swati Gupta, Atilla Eryilmaz<br>
